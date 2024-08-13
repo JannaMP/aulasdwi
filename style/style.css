@@ -1,0 +1,16 @@
+
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+    text-align: justify;
+    padding: 1% 2%;
+}
+
+.imagens {
+    width: 250px;
+    height:250px;
+}
+
